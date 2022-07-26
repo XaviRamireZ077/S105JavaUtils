@@ -1,0 +1,2 @@
+Main.class NO es un directori (F)
+Main.java NO es un directori (F)
